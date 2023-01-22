@@ -11,7 +11,7 @@ return `
 *Donasi*
 
   > Gopay : -
-  > Dana : -
+  > Dana : 081228792751
   > Ovo : -
   > Allpay : -
   > Saweria : -

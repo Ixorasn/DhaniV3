@@ -4,31 +4,31 @@ const chalk = require('chalk')
 
 //apikey
 // lolkey ( lolhuman : https://api.lolhuman.xyz )
-global.lolkey = 'ISI_DISINI_APIKEYNYA'
+global.lolkey = '444fd84d10a443b105fdc766'
 
 global.mode = false
 global.autodltt = false
 global.counttroli = 555999777
 global.typemenu = 'document'
-global.owner = ['628xxx'] //Masukin nomor mu
-global.ownernomer = "628xxx" //Masukin nomor mu
-global.premium = ['628xxx'] //Masukin nomor mu
-global.ownername = 'Ya, ini kasih namamu' //Masukin nama bot kamu
-global.botname = 'Ya, ini kasih nama bot mu' //Masukin nama bot kamu
-global.fakename = 'Ya, ini fake name' //Masukin nama mu
+global.owner = ['6281228792751'] //Masukin nomor mu
+global.ownernomer = "6281228792751" //Masukin nomor mu
+global.premium = ['6281228792751'] //Masukin nomor mu
+global.ownername = '𝙸𝚡𝚘𝚛𝚊V2' //Masukin nama bot kamu
+global.botname = '𝙸𝚡𝚘𝚛𝚊V2' //Masukin nama bot kamu
+global.fakename = 'Bot By 𝙸𝚡𝚘𝚛𝚊V2' //Masukin nama mu
 global.fakebody = 'Hubungi jika ingin sewabot' // Monggo kalau mau ganti
 global.packname = 'Sticker By' //Gakusah di ubah kalau mau di ubah Monggo 
-global.author = 'DhaniYo?' //Monggo kalau mau ubah
+global.author = '𝙸𝚡𝚘𝚛𝚊V2' //Monggo kalau mau ubah
 global.sessionName = 'KamuNanya' //Gak usah di ubah
 global.jumlha = '999' //Gak usah di ubah
 global.jumhal = '100000000000000' //Gak usah di ubah
 global.jumlah = '1000000000' //Gak usah di ubah
 global.prefa = ['','!','.','#','&'] //Gak usah di ubah
 global.scmu = 'Sc?\nEmang mau buat apa?' //Monggo kalau mau ubah
-global.githubmu = 'https://github.com/namagithub' //Isi nama github mu
+global.githubmu = '-' //Isi nama github mu
 global.ytmu = 'https://youtube.com/channel/UCcnWMxH0nUbArCCkqubUeHA' //Gak usah di ubah
 global.ytvmu = 'https://youtube.com/shorts/b_L5jlwrFRs?feature=share' //Gak usah di ubah
-global.linkbebas = 'https://chat.whatsapp.com/KREr2OmTDoP3nP2co1zeK2' //Terserah mau luh isi web apa mau github atau link group juga bisa
+global.linkbebas = '-' //Terserah mau luh isi web apa mau github atau link group juga bisa
 global.imglink = 'https://telegra.ph/file/b5ac5b79fd044eb90bfd9.jpg' // isi dengan image link/foto link
 global.teksqr = {
 gopay: '_Ini kak Qr Gopay nya_',
@@ -45,7 +45,7 @@ global.mess = {
     group: '_Fitur Hanya Dapat Di Gunakan Di Dalam Group!_',
     private: '_Fitur Hanya Dapat Di Gunakan Di Chat Pribadi!_',
     bot: '_Fitur Hanya Dapat Di Gunakan User Bot!_',
-    wait: '_Loading . . ._',
+    wait: '_Loading Mekk!!. . ._',
     errapi: '_Error Mungkin Apikey Tidak Valid!_',
     errmor: '_Error Kesalahan Sistem_',
 }
